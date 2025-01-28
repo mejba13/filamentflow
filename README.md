@@ -1,7 +1,5 @@
 # FilamentFlow
 
-![FilamentFlow Logo](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/%252SVG%2%2xCMYK/1%2Full%20Color/laravel-logolockup-cmyk-red.svg)
-
 ## About FilamentFlow
 
 FilamentFlow is a Laravel-based project designed to simplify and enhance the Filament Admin Panel experience. It includes custom UI components, advanced table actions, authentication enhancements, and more, making Filament development seamless and efficient.
